@@ -4,16 +4,12 @@ This project explores the relationship between fuel consumption data and CO2 emi
 
 ## Built With
 
-* Jupyter Notebook - Web-based framework
+* Jupyter Notebook - Web-based application used to create and share project documents
 * Python - Used to execute the project
 * Scikit-learn - Used to implement a simple linear regression model
 
 ## Prerequisites
-Installations:
-
-```
-Install Jupyter Notebook. Instructions can be found at https://jupyter.readthedocs.io/en/latest/install.html
-```
+* Install Jupyter Notebook. Instructions can be found at https://jupyter.readthedocs.io/en/latest/install.html
 
 ## Deployment
 
