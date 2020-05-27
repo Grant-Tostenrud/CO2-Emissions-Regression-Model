@@ -8,6 +8,12 @@ This project explores the relationship between certain features of cars and thei
 * Python - Used to execute the project
 * Scikit-learn - Used to implement a simple linear regression model
 
+## Files
+* FuelConsumption.csv - dataset for this project
+* SimpleLinearRegression.ipynb - simple linear regression model of emissions based on engine size
+* MultipleLinearRegression.ipynb - multiple linear regresssion model of emissions based on engine size, number of cylinders, and fuel consumption
+* PolynomialRegression.ipynb - polynomial regression model of emissions based on engine size
+
 ## Prerequisites
 * Install Jupyter Notebook. Instructions can be found at https://jupyter.readthedocs.io/en/latest/install.html
 
